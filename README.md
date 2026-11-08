@@ -2,7 +2,7 @@
 
 I built this n8n workflow to review product records, identify missing or inconsistent information, and use AI to suggest cleaner product names, categories, and descriptions.
 
-<img width="627" height="215" alt="image" src="https://github.com/user-attachments/assets/48ceaf6b-ef75-4aa0-a0a9-d8c8f9765734" />
+<img width="627" height="215" alt="AI Product Catalog Cleaner workflow demo" src="https://github.com/user-attachments/assets/48ceaf6b-ef75-4aa0-a0a9-d8c8f9765734" />
 
 ## How it works
 
